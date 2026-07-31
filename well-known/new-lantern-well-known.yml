@@ -1,0 +1,19 @@
+generated: '2026-07-20'
+method: probed
+source: live probes of https://newlantern.ai/.well-known/*
+host: https://newlantern.ai
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+notes: >-
+  New Lantern publishes a marketing/company site only (Framer-hosted); no
+  /.well-known discovery documents are served. A root /llms.txt (HTTP 200) is
+  captured separately in llms/new-lantern-llms.txt. No public API surface found.

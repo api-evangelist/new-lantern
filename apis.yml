@@ -1,7 +1,20 @@
 aid: new-lantern
 name: New Lantern
-description: New Lantern is a company surfaced as a portfolio company of menlo-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  New Lantern is a cloud-native, AI-native radiology platform that unifies the
+  worklist, PACS/DICOM viewer, and AI-powered reporting into a single
+  browser-based workspace, replacing the fragmented multi-system software stack
+  most radiology practices run today. Its cloud-native DICOM viewer offers
+  3D/MPR/MIP reconstruction, mammography and PET/CT modes, and AI hanging
+  protocols; its Curie AI reporting assistant drafts reports that a licensed
+  radiologist reviews, edits, and signs; and NL-Vox provides radiology-tuned
+  speech recognition, alongside intelligent worklist and case distribution,
+  analytics, and native Epic/Oracle Health EHR integration. Founded in 2021 and
+  headquartered in San Francisco, New Lantern is backed by a $19M Series A led
+  by Benchmark and is FDA registered as a Class I medical image communications
+  device (21 CFR 892.2020). New Lantern does not currently expose a public
+  developer API; this profile captures its company identity and public
+  web/security posture.
 url: https://raw.githubusercontent.com/api-evangelist/new-lantern/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +22,32 @@ x-backed-by:
 - menlo-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://framerusercontent.com/images/iNKsDb3FsuBzDtrLSQWRaPUoqig.png
 tags:
 - Company
+- Radiology
+- Medical Imaging
+- Healthcare
+- PACS
+- DICOM
+- Artificial Intelligence
+- Health IT
+- Radiology Reporting
+- Clinical Software
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +57,20 @@ maintainers:
 common:
 - type: Website
   url: https://newlantern.ai
+- type: Blog
+  url: https://www.newlantern.ai/blog
+- type: Support
+  url: https://www.newlantern.ai/contact-us
+- type: PrivacyPolicy
+  url: https://www.newlantern.ai/legal/privacy-policy
+- type: TermsOfService
+  url: https://www.newlantern.ai/legal/terms-of-service
+- type: LLMsTxt
+  url: llms/new-lantern-llms.txt
+- type: DomainSecurity
+  url: security/new-lantern-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1

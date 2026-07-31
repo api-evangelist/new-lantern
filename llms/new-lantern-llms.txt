@@ -1,0 +1,28 @@
+# New Lantern
+
+> New Lantern is a cloud-native, AI-native radiology platform that unifies the worklist, PACS viewer, and AI-powered reporting into a single browser-based workspace, replacing the fragmented, multi-system software stack most radiology practices run today.
+
+New Lantern was founded in 2021 by Silicon Valley engineers, practicing radiologists, and AI researchers, and is backed by a $19M Series A led by Benchmark. The company is headquartered in San Francisco and is FDA registered as a Class I medical image communications device (21 CFR 892.2020). New Lantern is not a diagnostic AI: its AI reporting assistant, Curie, drafts reports that a licensed radiologist always reviews, edits, and signs.
+
+## Product
+
+- [Product overview](https://www.newlantern.ai/product): Full platform tour — cloud-native DICOM viewer with 3D/MPR/MIP reconstruction, mammography and PET/CT modes, AI hanging protocols, Curie AI reporting, NL-Vox speech recognition, intelligent worklist and case distribution, analytics dashboards, and native Epic/Oracle Health EHR integration.
+- [AI PACS Buyer's Guide](https://www.newlantern.ai/buyers-guide): Framework for evaluating radiology software in 2026 — workflow speed, reporting experience, AI readiness, deployment effort, and total cost of ownership compared to legacy on-premise PACS.
+- [Resources](https://www.newlantern.ai/resources): Customer stories, case studies, and workflow guides from practices that have moved to New Lantern.
+
+## Company
+
+- [About](https://www.newlantern.ai/about-us): Company story, leadership, and the research basis for New Lantern's product decisions — radiologists lose an estimated 44% of the workday to non-interpretive software tasks.
+- [Careers](https://www.newlantern.ai/careers): Open roles in engineering, product, and go-to-market at New Lantern's San Francisco office, plus the Residency Program for early-career engineers.
+- [Request a demo](https://www.newlantern.ai/contact-us): Contact sales, including FAQs on implementation timeline (4-8 weeks), PACS data migration, multi-site rollout, and EHR integrations.
+
+## Blog
+
+- [New Lantern Releases State-of-the-art Radiology Speech Model](https://www.newlantern.ai/blog/new-lantern-releases-sota-radiology-speech-model): A speech recognition model purpose-built for radiology dictation, handling medical terminology, laterality, and dates that general-purpose speech engines get wrong.
+- [New Lantern Releases Advanced Mammography & PET/CT Viewer Modes](https://www.newlantern.ai/blog/new-lantern-releases-advanced-mammography-pet-ct-viewer-modes): Launch of specialized Mammography and PET/CT viewer modes extending Curie's AI automation to every imaging modality.
+- [AI First Drafts of Radiology Reports: From 205 Dictated Words to 57](https://www.newlantern.ai/blog/ai-first-drafts-of-radiology-reports-siim-2025): How New Lantern's Curie AI reduces radiologist dictation from 205 words to 57 per report, based on data presented at SIIM 2025.
+- [New Lantern Raises $19M Series A Led by Benchmark](https://www.newlantern.ai/blog/new-lantern-raises-19m-series-a-led-by-benchmark): Funding announcement and plans to scale the platform and team to serve radiology practices nationwide.
+
+## Optional
+
+- [Sitemap](https://www.newlantern.ai/sitemap.xml): Full list of indexable pages.
